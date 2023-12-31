@@ -1,0 +1,19 @@
+CalibrationCurve        calibration model
+CalibrationPlot         Calibration model fit plot
+FreundlichParameters    Estimate Parameters of Freundlich model
+FreundlichPlot          Plot the Freundlich model fit to the
+                        experimental data
+LangmuirParameters      Estimate Parameters of Langmuir model
+LangmuirPlot            Plot the langmuir model fit to the experimental
+                        data
+LinearPlot              Plot the Linear model fit to the experimental
+                        data
+NonLinearFreundlichPlot
+                        Fits a non linear form of Langmuir model to the
+                        Ce and Qe data
+NonLinearLangmuirPlot   Fits a non linear form of Langmuir model to the
+                        Ce and Qe data
+SampleAbstoConc         Calculate Concentrations in Samples based on
+                        Calibration curve
+SorbedMass              Calculate amount of chemical adsorbed/retained
+                        by solid (q)

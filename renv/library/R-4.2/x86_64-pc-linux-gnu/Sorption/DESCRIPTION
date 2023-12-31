@@ -1,0 +1,29 @@
+Package: Sorption
+Title: Predicts Sorption Processes Using Empirical Models
+Version: 0.0.1.3
+Authors@R: person("Chinmay", "Deval", email = "chinmay.deval91@gmail.com", role = c("aut", "cre"))
+Description: This package provides efficient way for estimating isotherm equations and isotherm parameters from the experimental adsorption isotherm data. The package contains functions that plot the isotherms and determine the conformity of the experimental data to the empirical models. Linear, Langmuir (linear and non linear forms) and Freundlich (linear and non linear forms) empirical models are included in this package.   
+Depends: R (>= 3.5.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: ggpubr, ggplot2, IDPmisc
+ImportFrom: stats, coefficients, lm, utils, write.table
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: Sorption
+RemoteUsername: devalc
+RemoteRef: HEAD
+RemoteSha: b1f74aa562971e7d2b5c6a351809053b3cc2bc0a
+GithubRepo: Sorption
+GithubUsername: devalc
+GithubRef: HEAD
+GithubSHA1: b1f74aa562971e7d2b5c6a351809053b3cc2bc0a
+NeedsCompilation: no
+Packaged: 2023-07-05 00:51:49 UTC; thomas
+Author: Chinmay Deval [aut, cre]
+Maintainer: Chinmay Deval <chinmay.deval91@gmail.com>
+Built: R 4.2.2; ; 2023-07-05 00:51:50 UTC; unix

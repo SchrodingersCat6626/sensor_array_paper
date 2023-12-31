@@ -1,0 +1,11 @@
+CalibrationCurve	CalibrationCurve
+CalibrationPlot	CalibrationPlot
+FreundlichParameters	FreundlichParameters
+FreundlichPlot	FreundlichPlot
+LangmuirParameters	LangmuirParameters
+LangmuirPlot	LangmuirPlot
+LinearPlot	LinearPlot
+NonLinearFreundlichPlot	NonLinearFreundlichPlot
+NonLinearLangmuirPlot	NonLinearLangmuirPlot
+SampleAbstoConc	SampleAbstoConc
+SorbedMass	SorbedMass

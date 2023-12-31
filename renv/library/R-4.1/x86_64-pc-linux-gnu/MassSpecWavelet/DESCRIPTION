@@ -1,0 +1,20 @@
+Package: MassSpecWavelet
+Type: Package
+Title: Mass spectrum processing by wavelet-based algorithms
+Version: 1.60.1
+Date: 2022-04-05
+Depends: waveslim
+Suggests: xcms, caTools
+Author: Pan Du, Warren Kibbe, Simon Lin
+Maintainer: Sergio Oller <sergioller@gmail.com>
+Description: Processing Mass Spectrometry spectrum by using wavelet based algorithm
+License: LGPL (>= 2)
+biocViews: ImmunoOncology, MassSpectrometry, Proteomics
+git_url: https://git.bioconductor.org/packages/MassSpecWavelet
+git_branch: RELEASE_3_14
+git_last_commit: 78ed31d
+git_last_commit_date: 2022-04-04
+Date/Publication: 2022-04-05
+NeedsCompilation: yes
+Packaged: 2022-04-05 08:46:19 UTC; biocbuild
+Built: R 4.1.2; x86_64-pc-linux-gnu; 2022-07-16 19:39:25 UTC; unix
