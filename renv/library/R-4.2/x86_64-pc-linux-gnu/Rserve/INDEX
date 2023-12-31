@@ -1,7 +1,0 @@
-Rserve                  Server providing R functionality to
-                        applications via TCP/IP or local unix sockets
-Rserve.eval             Evaluate expressions in a REPL-like fashion
-ocap                    Object Capability (OCAP) Functions
-run.Rserve              Start Rserve within the current R process.
-self.ctrlEval           Functions usable for R code run inside Rserve
-ulog                    Micro Logging
